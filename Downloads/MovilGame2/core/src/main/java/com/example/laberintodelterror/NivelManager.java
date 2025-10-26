@@ -25,8 +25,9 @@ public class NivelManager {
             case 1: startX = 1000; startY = 100; break;
             case 2: startX = 1200; startY = 80; break;
             case 3: startX = 1100; startY = 60; break;
-            case 4: startX = 1100; startY = 70; break;
+            case 4: startX = 1150; startY = 70; break;
             case 5: startX = 1100; startY = 50; break;
+            case 6: startX = 1100; startY = 50; break;
             default: startX = 100; startY = 100; break;
         }
 
